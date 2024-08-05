@@ -8,4 +8,7 @@ A computer network is a digital communication that allows nodes to share resoucr
 - Firewalls
 - End hosts
 - cables
-![Screenshot (73)](https://github.com/user-attachments/assets/72ac85e3-545a-4441-842b-78a73a8d5eec)
+
+## Result from the labs
+
+![Screenshot (73)](https://github.com/user-attachments/assets/1fd4f83f-c780-4264-988d-b07419347bcb)
