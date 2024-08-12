@@ -1,8 +1,8 @@
 # How to configure Routers
 ``` plaintest
-R1> enable
-R1# configure terminal
-R1(config)# hostname R1
+Router> enable
+Router# configure terminal
+Router(config)# hostname R1
 R1(config)# do sh ip int br
 R1(config)# interface GigabitEthernet0/0
 R1(config-if)# ip address 15.255.255.0 255.0.0.0
